@@ -1,2 +1,2 @@
-# calculator-solve
-Library used for better calculation.
+# build application
+Appplication on angular js
